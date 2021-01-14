@@ -14,7 +14,7 @@ run seeder
 $ composer install
 $ php artisan migrate:fresh --seed
 ```
-for testing you can use any graphql client, im using graphiql
+for testing you can use any graphql client, im using graphiql via browser
 ```bash
 $ php artisan serve
 ```
@@ -42,5 +42,7 @@ query{
   }
 }
 ```
+### screenshot
+[screenshot]: https://raw.githubusercontent.com/lordhasyim/graphql-laravel/master/screenshot/sc1.png
 
 # Monggo di paido
