@@ -46,6 +46,6 @@ query{
 ```
 ## screenshot
 
-<p align="left"><a href="#"><img src=" https://raw.githubusercontent.com/lordhasyim/graphql-laravel/master/screenshot/sc1.png"></a></p>
+<a href="#" target="_blank"><img src=" https://raw.githubusercontent.com/lordhasyim/graphql-laravel/master/screenshot/sc1.png"></a>
 
 # Monggo di paido
