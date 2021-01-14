@@ -42,7 +42,8 @@ query{
   }
 }
 ```
-### screenshot
-[screenshot]: https://raw.githubusercontent.com/lordhasyim/graphql-laravel/master/screenshot/sc1.png
+## screenshot
+
+<p align="left"><a href="#"><img src=" https://raw.githubusercontent.com/lordhasyim/graphql-laravel/master/screenshot/sc1.png"></a></p>
 
 # Monggo di paido
