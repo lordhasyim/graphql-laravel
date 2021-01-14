@@ -1,8 +1,10 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+## Nothing Special
+crud graphql with laravel for learing purpose, im using this library 
+<a href="https://github.com/rebing/graphql-laravel" target="_blank">https://github.com/rebing/graphql-laravel</a>
 
+there are another lib also im considering  <a href="https://github.com/nuwave/lighthouse" target="_blank">https://github.com/nuwave/lighthouse</a>.
 
-## Desc
-graphql with laravel for learing purpoce
+next i'll try this one
 
 ## Installation
 install
